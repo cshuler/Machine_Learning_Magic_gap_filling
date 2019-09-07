@@ -1,0 +1,16 @@
+name: tensorflow_env
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - seaborn 
+  - pandas
+  - scipy
+  - notebook 
+  - scikit-learn
+  - lmfit
+  - xlrd
+  - tensorflow 
+  - keras
