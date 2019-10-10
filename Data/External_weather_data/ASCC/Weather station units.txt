@@ -1,0 +1,63 @@
+Air temp, Hi and Low
+degrees Celsius
+
+ET, Evapotranspiration
+millimeters
+
+Soil temp
+(No sensor)
+
+Leaf, Leaf wetness
+(No sensor)
+
+Solar rad, Solar radiation
+Watts per square meter
+
+Solar energy
+Langleys
+
+Degree days
+Degrees Celsius x Days
+
+Bar, Barometric pressure
+Millimeters of mercury
+
+Wind speed, current wind speed
+Kilometers per hour
+
+Hi, Highest wind speed during interval
+kilometers per hour
+
+Wind Direction
+(Compass direction)
+
+Wind chill, current wind chill
+Degrees Celsius
+
+Run, Wind run
+Kilometers
+
+Rain (amount during interval)
+Millimeters
+Hi Rate, Maximum rain rate during interval
+Millimeters per hour
+
+Hum, Relative humidity
+Percent
+
+Dew point
+Degrees Celsius
+
+T.H index, Temperature humidity index
+Degrees Celsius
+
+A. Per (?)
+
+Batt. Volts
+voltage of battery in unit
+
+
+
+
+
+
